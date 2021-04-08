@@ -1,0 +1,33 @@
+.memeCaption{
+     background-color: #474242;
+     font-family:  Cursive;
+     color: #ffffff     ;
+     font-size: large;
+}
+
+.memeCard{
+    width: 25em;
+    border-color: black;
+    box-shadow: inset;
+}
+
+.memeCardBody {
+    background-image: url('../../icons/cool-background.svg');
+
+}
+
+
+.memeTitle {
+    color: crimson;
+    font-family: Console;
+    font-weight: 730;
+    font-size: 25px;
+
+}
+
+.allbody {
+    background-image: url('../../icons/congruent_pentagon.png');
+    background-size: contain;
+
+
+}

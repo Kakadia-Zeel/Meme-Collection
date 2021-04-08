@@ -1,0 +1,56 @@
+.footer {
+    background-color: #1f1f1f;
+    color: #f1f1f1;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    width: 100%;
+    size: 0px;
+    text-align: center;
+    font-family: 'Consolas';
+}
+.about-site {
+    padding-bottom: 0;
+}
+
+.about-me{
+    background-color: antiquewhite;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+footer h3 {
+    color: #eeeac2;
+    font-family: Lucida Handwriting;
+}
+
+.heading{
+    color: aquamarine;
+    font-family: Lucida Calligraphy;
+}
+
+.social-media-icons img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+}
+
+.social-media-icons li {
+    display: inline-block;
+    padding: 7px;
+    margin-right: 10px;
+    background-color: #f1f1f1;
+}
+h3{
+    color: aqua;
+    
+}
+footer ul {
+    list-style-type: none;
+}
+
+.copyright {
+    border-top: 2px solid #fff;
+    padding: 0 50%;
+}

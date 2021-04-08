@@ -1,0 +1,72 @@
+
+
+.navbar{
+   
+  background-color: black;
+ 
+  
+  }
+
+  h1{
+    color: whitesmoke       ;
+    font-family: Segoe Script;
+    font-weight: bolder;
+    font-size: 34px;
+    
+
+  }
+
+button{
+  font-family: 'Consolas';
+
+}
+
+
+/* sign-up button */
+.navbar-signup-btn{
+  margin: 0 5px;
+  padding: 2px 15px;
+  color: #3a86ff;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+.navbar-signup-btn:hover{
+  border: 1px solid #3a86ff;
+}
+
+/* login button */
+.navbar-login-btn{
+  margin: 0 5px;
+  padding: 2px 15px;
+  background-color: #3a86ff;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+.navbar-login-btn:hover{
+  border: 1px solid #3a86ff;
+  background-color: #fff;
+  color: #3a86ff;
+}
+
+@media(max-width: 991px){
+  .navbar-links ul{
+    align-items: center;
+  }
+  .navbar-links ul .links{
+    width: fit-content;
+  }
+
+  .navbar-login-buttons{
+    width: fit-content;
+    margin: 5px 0px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+  }
+  .navbar-login-btn{
+    margin-top: 15px;
+  }
+}
