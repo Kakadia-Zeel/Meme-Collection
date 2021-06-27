@@ -25,7 +25,7 @@ This project was a part of  Crio's Externship Program of Stage 2B.
 ![](./images/6.png)
 ![](./images/8.png)
 ![](./images/9.png)
-![](./images/delete.mp4)
+![](./images/delete.gif)
 ![](./images/footer.png)
 
 
